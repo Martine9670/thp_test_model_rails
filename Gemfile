@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "faker"
 # Permet de visualiser la BDD
 gem "table_print"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
